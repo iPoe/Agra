@@ -1,0 +1,33 @@
+papa(i)=i//2
+left(i)=2i
+rigth(i)=2i+1
+
+Esto se hace si se inicio desde la raiz indexandola 
+como 1.
+
+
+Si a la raiz la indezamos como 1 entonces las funciones
+cambian.
+
+papa(i)=(i+1)//2-1
+left(i)=2(i+1)-1
+rigth(i)=2(i+1)+1-1
+
+
+x = ['?',3,2,4,10,7,3,9]
+de
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
